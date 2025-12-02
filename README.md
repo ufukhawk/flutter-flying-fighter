@@ -2,11 +2,12 @@
 
 <div align="center">
 
-![Game Screenshot](assets/screenshot.png)
+![Game Screenshot](assets/game_ss.png)
+ 
 
 **A classic arcade-style flying fighter game built with Flutter & Flame Engine**
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.9.2+-02569B?style=flat&logo=flutter)](https://flutter.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-3.35.7+-02569B?style=flat&logo=flutter)](https://flutter.dev)
 [![Flame](https://img.shields.io/badge/Flame-1.33.0+-FF6D00?style=flat&logo=flame)](https://flame-engine.org)
 [![License](https://img.shields.io/badge/License-Educational%20Only-red?style=flat)](LICENSE)
 
@@ -26,6 +27,8 @@
 ---
 
 ## ✨ Features
+
+<video src="assets/game_play.mp4" width="600" controls></video>
 
 ### 🎮 Core Gameplay
 - **Touch Controls**: Smooth drag-and-pan controls to navigate your fighter plane
