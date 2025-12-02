@@ -27,8 +27,9 @@
 ---
 
 ## ✨ Features
+ 
 
-<video src="assets/game_play.mp4" width="300" controls></video>
+https://github.com/user-attachments/assets/2ba4f311-9380-4308-a7d4-7b3af9174e3f
 
 ### 🎮 Core Gameplay
 - **Touch Controls**: Smooth drag-and-pan controls to navigate your fighter plane
