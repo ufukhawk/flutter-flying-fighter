@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Game Screenshot](assets/game_ss.png)
+<img src="assets/game_ss.png" alt="Game Screenshot" width="600">
  
 
 **A classic arcade-style flying fighter game built with Flutter & Flame Engine**
